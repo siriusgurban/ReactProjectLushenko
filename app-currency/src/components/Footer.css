@@ -1,0 +1,27 @@
+.footer .footer-bottom{
+    background: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer .footer-bottom ul li a{
+    line-height: 30px;
+    color: #ffffff;
+    position: relative;
+    margin-left: 23px;
+    display: block;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer-title{
+    color: #ffffff;
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+}
+
+.footer-title a{
+    color: #ffffff;
+    font-size: 1.4rem;
+    text-decoration: none;
+}
